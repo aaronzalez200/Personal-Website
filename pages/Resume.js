@@ -7,6 +7,8 @@ export default function Resume() {
             <a href="AG_Aug_Resume.pdf">
                 <img src="Resume.png"/>
             </a>
+            <br></br>
+            <br></br>
         </div>
     )
 }
