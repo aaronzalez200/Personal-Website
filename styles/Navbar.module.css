@@ -1,0 +1,54 @@
+.Navbar {
+    position: fixed;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background: #0092ef;
+    color: white;
+    font-family: 'Franklin Gothic Light';
+    font-size: 2rem;
+    height: 60px;
+    z-index: 5;
+}
+
+.Navbar img {
+    background: transparent;
+    padding: 0px 10px;
+}
+
+.work {
+    display: flex;
+    background: transparent;
+    font-size: 1.5rem;
+    align-items: center;
+}
+
+.work a {
+    background: transparent;
+}
+
+.work img:hover {
+    transform: scale(1.1);
+    transition: 0.2s ease-in 0s;
+}
+
+.link {
+    display: flex;
+    text-decoration: none;
+    background: transparent;
+    font-size: 1.5rem;
+}
+
+.navigate {
+    padding: 0px 10px;
+    background: transparent;
+    text-decoration: none;
+    color: white;
+}
+
+.navigate:hover {
+    cursor: pointer;
+    color: gold;
+    transition: 0.2s ease-in 0.1s;
+}

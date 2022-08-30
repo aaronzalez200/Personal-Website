@@ -1,0 +1,50 @@
+.Box {
+    display: flex;
+    justify-content: center;
+}
+
+.Content {
+    margin-top: 60px;
+    display: flex;
+    position: absolute;
+    width: 55%;
+    justify-content: center;
+    align-items: center;
+    background: transparent;
+}
+
+.Right {
+    display: flex;
+    flex-direction: column;
+    font-size: 4rem;
+    padding-top: 10%;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background: transparent;
+}
+
+.Right p {
+    background: transparent;
+    font-family:'Franklin Gothic Light';
+    color: white;
+    margin: 0;
+    font-size: clamp(1rem, 1rem + 3vw, 5rem);
+}
+
+.Right img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: transparent;
+    height: calc(100px + 10vw);
+}
+
+.Title {
+    display: flex;
+    margin-top: 20%;
+    background: transparent;
+    font-size: clamp(1rem, 2rem + 4vw, 9rem);
+    overflow: wrap;
+    color: gold;
+}
