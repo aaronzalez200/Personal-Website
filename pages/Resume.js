@@ -5,7 +5,7 @@ export default function Resume() {
         <div className={style.ResumeContent}>
             <h1>August 2022 Resume</h1>
             <a href="AG_Aug_Resume.pdf">
-                <img src="Resume.png"/>
+                <img src="ResumeCapture.png"/>
             </a>
             <br></br>
             <br></br>
