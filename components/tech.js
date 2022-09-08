@@ -10,8 +10,8 @@ const Tech = () => {
                 Recently graduated this May from Purdue University in West Lafayette with a degree
                 in Electrical Engineering Technology. I enjoy developing websites and have experience 
                 with embedded systems from Purdue.
-                At my time in Purdue I was the President of the Dota 2 Club  for 3 years and helped the organization
-                join as one of Purdue's esports title.
+                While at Purdue I was the President of the Dota 2 Club  for 3 years and helped the organization
+                join as one of Purdue's Official Esports titles.
             </p>
             <h1>Technologies</h1>
             <div className={styles.Photos}>
