@@ -6,6 +6,29 @@ export default function Projects() {
             <h1>Projects</h1>
             <div className={styles.Box}>
                 <div className={styles.Content}>
+                    <h2>PetSmart Email</h2>
+                    <img src="EmailCapture.PNG"/>
+                    <div className={styles.Info}>
+                            <a href="index.html" className={styles.LiveSite}>
+                                <h3>HTML</h3>
+                            </a>
+                        <a href="https://github.com/aaronzalez200/Email-PetSmart" className={styles.Repo}>
+                            <h3>Github Repo</h3>
+                            <img src="github.png" />
+                        </a>
+                    </div>
+                    <div className={styles.Tech2}>
+                        <div className={styles.TechInfo}>
+                            <img src="HTML.png" height="90"/>
+                        </div>
+                        <div className={styles.TechInfo}>
+                            <img src="css.png" height="120"/>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div className={styles.Box}>
+                <div className={styles.Content}>
                     <h2>Dota 2 Club Website</h2>
                     <img src="WebCap1.PNG"/>
                     <div className={styles.Info}>

@@ -92,6 +92,14 @@
     justify-content: space-between;
     background: transparent;
 }
+.Tech2 {
+    display: flex;
+    width: 100%;
+    scale: 0.8;
+    align-items: center;
+    justify-content: space-around;
+    background: transparent;
+}
 
 .TechInfo {
     background: transparent;
