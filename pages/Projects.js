@@ -6,13 +6,13 @@ export default function Projects() {
             <h1>Projects</h1>
             <div className={styles.Box}>
                 <div className={styles.Content}>
-                    <h2>PetSmart Email</h2>
-                    <img src="EmailCapture.PNG"/>
+                    <h2>Responsive Email Tutorial</h2>
+                    <img src="EmailCapture2.PNG"/>
                     <div className={styles.Info}>
-                            <a href="index.html" className={styles.LiveSite}>
+                            <a href="LearnEmail.html" className={styles.LiveSite}>
                                 <h3>HTML</h3>
                             </a>
-                        <a href="https://github.com/aaronzalez200/Email-PetSmart" className={styles.Repo}>
+                        <a href="https://github.com/aaronzalez200/Email-Learn" className={styles.Repo}>
                             <h3>Github Repo</h3>
                             <img src="github.png" />
                         </a>
